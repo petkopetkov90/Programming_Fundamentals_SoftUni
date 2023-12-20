@@ -1,0 +1,29 @@
+.color-section div
+{
+   display: inline;
+}
+.color-section
+{
+   width: 150px;
+   margin: 100px auto;
+}
+.blue 
+{
+    background-color: blue
+}
+.green 
+{
+    background-color: green
+}
+.red 
+{
+    background-color: red
+}
+.purple 
+{
+    background-color: purple
+}
+.orange 
+{
+    background-color: orange
+}
