@@ -1,7 +1,4 @@
-﻿using MySql.Data.MySqlClient;
-using MySqlConnector;
-
-namespace Tri_bit_Switch
+﻿namespace Tri_bit_Switch
 {
     internal class Program
     {
@@ -13,7 +10,6 @@ namespace Tri_bit_Switch
             int result = number ^ mask;
             Console.WriteLine(result);
             
-            MySqlConnection con
         }
     }
 }
